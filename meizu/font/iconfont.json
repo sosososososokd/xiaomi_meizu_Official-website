@@ -1,0 +1,128 @@
+{
+  "id": "1903958",
+  "name": "meizu",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "14320190",
+      "name": "购物车",
+      "font_class": "gouwuche1",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "16978",
+      "name": "诚信",
+      "font_class": "chengxin",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "210275",
+      "name": "新浪",
+      "font_class": "sina",
+      "unicode": "e698",
+      "unicode_decimal": 59032
+    },
+    {
+      "icon_id": "3242284",
+      "name": "国旗",
+      "font_class": "guoqi",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "3390121",
+      "name": "俄罗斯",
+      "font_class": "eluosi",
+      "unicode": "e669",
+      "unicode_decimal": 58985
+    },
+    {
+      "icon_id": "3926656",
+      "name": "微信",
+      "font_class": "weixin",
+      "unicode": "e6d3",
+      "unicode_decimal": 59091
+    },
+    {
+      "icon_id": "6070792",
+      "name": "链接",
+      "font_class": "lianjie",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "8749547",
+      "name": "盾牌",
+      "font_class": "dunpai",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "9731013",
+      "name": "EN",
+      "font_class": "EN",
+      "unicode": "e675",
+      "unicode_decimal": 58997
+    },
+    {
+      "icon_id": "11200518",
+      "name": "警车",
+      "font_class": "police-car",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "11252301",
+      "name": "公安 ",
+      "font_class": "gongan",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "11995616",
+      "name": "繁体",
+      "font_class": "fanti",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "13175682",
+      "name": "土耳其语",
+      "font_class": "tuerqiyu",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "14395220",
+      "name": "QQ空间",
+      "font_class": "QQkongjian",
+      "unicode": "e71b",
+      "unicode_decimal": 59163
+    },
+    {
+      "icon_id": "2439333",
+      "name": "播放按钮",
+      "font_class": "bofanganniu",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "11568747",
+      "name": "人",
+      "font_class": "ren1",
+      "unicode": "e65b",
+      "unicode_decimal": 58971
+    },
+    {
+      "icon_id": "6658901",
+      "name": "meizu",
+      "font_class": "meizu",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    }
+  ]
+}
